@@ -1,0 +1,52 @@
+body {
+}
+
+#titleSection {
+
+    background-color: #1B5299;
+
+    height: 100px;
+
+    width: 1900px;
+
+    margin: auto;
+
+    position: top;
+
+    top: 0; left: 0; bottom: 0; right: 0;
+
+    padding-top: 5px;
+
+    font-family: 'Big Shoulders Text';
+
+    text-align: center;
+
+    color: white;
+    
+    font-size: 20px;
+}
+
+#mainFunction {
+
+    background-color: #1B5299;
+
+    height: 100px;
+
+    width: 1900px;
+
+    margin: auto;
+
+    position: center;
+
+    top: 0; left: 0; bottom: 0; right: 0;
+
+    padding-top: 5px;
+
+    font-family: 'Big Shoulders Text';
+
+    text-align: center;
+
+    color: white;
+    
+    font-size: 20px;
+}
