@@ -1,8 +1,8 @@
 # Team: MGK
 ### Team Members:
-[Ethan Devera](https://github.com/E-tanos)
-[Hunter Von Tungeln](https://github.com/HunterVT)
-[Jarell Ballesteros](https://github.com/jarellb)
+-[Ethan Devera](https://github.com/E-tanos)
+-[Hunter Von Tungeln](https://github.com/HunterVT)
+-[Jarell Ballesteros](https://github.com/jarellb)
 
 # Challenge: OHA ChatBot
 
