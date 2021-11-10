@@ -1,7 +1,9 @@
+/* Changes the background color of the entire  webpage */
 body {
 	background-color: #2F2F2F;
 }
 
+/* Styles the title section at the top of the page */
 #titleSection {
 
     background-color: #1B5299;
@@ -35,6 +37,7 @@ body {
     outline: 3px solid black;
 }
 
+/* Styles the main part, including the Dialogflow window and instructions sidebar */
 #mainFunction {
 
     background-color: #1B5299;
@@ -62,6 +65,7 @@ body {
     font-size: 20px;
 }
 
+/* Sizes the iFrame with the Dialogflow windo */
 .id iframe {
 	
 	width: 100%;
@@ -72,6 +76,7 @@ body {
 
 }
 
+/* Styles the instructions sidebar */
 .instructions {
 
     height: 40%;
@@ -96,8 +101,11 @@ body {
 
     font-family: 'Big Shoulders Text';
 
+    overflow:hidden;
+
 }
 
+/* Styles the instructions sidebar */
 .instructions div {
 
     padding: 8px;
