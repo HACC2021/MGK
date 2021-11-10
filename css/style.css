@@ -71,3 +71,39 @@ body {
 	border: none;
 
 }
+
+.instructions {
+
+    height: 40%;
+
+    width: 31.25%;
+
+    position: absolute;
+
+    left: 25;
+
+    top: 50;
+
+    padding-top: 40px;
+
+    background-color: #1B5299;
+
+    border-radius: 25px;
+
+    outline: 3px solid black;
+
+    color: white;
+
+    font-family: 'Big Shoulders Text';
+
+}
+
+.instructions div {
+
+    padding: 8px;
+
+    font-size: 24px;
+
+    display: block;
+    
+}
